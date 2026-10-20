@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pakistanjobhub.github.io/kitchen-pet-finds/sitemap.xml
